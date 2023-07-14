@@ -1,6 +1,6 @@
-👋 Hi, I’m @jacob-sheldon
-👀 I’m working at iOS development
-🌱 I’m currently learning Java Backend and Web Development
+- 👋 Hi, I’m @jacob-sheldon
+- 👀 I’m a iOS developer
+- 🌱 I’m currently learning Java Backend and Web Development
 
 <!---
 jacob-sheldon/jacob-sheldon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
